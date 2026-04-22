@@ -4,6 +4,8 @@ Paylance is a modern and user-friendly Invoice Management Script designed for fr
 
 With Paylance, you can efficiently manage your clients, create and track invoices, record payments, and generate professional PDF invoices—all from a centralized dashboard. Whether you're running a freelance business or managing multiple clients, this script simplifies your workflow and saves valuable time.
 
+<img src="https://www.phpscriptsonline.com/frontend/assets/icon/ready-made-invoice-php-software.jpg">
+
 <b>Paylance has the following key features:</b>
 
 <ul>
